@@ -1,4 +1,4 @@
-# calculator_edsim51
+# Calculator using  8051 microcontroller
 The aim of the project is to build a calculator using
 edsim51 8051 microcontroller simulator. C programming language is used.C program is
 converted into assembly language by using sdcc compiler.
